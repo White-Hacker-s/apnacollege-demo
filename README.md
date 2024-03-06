@@ -1,4 +1,4 @@
 # apnacollege-demo
 This is my first git repository.
 <br>
-Author : Sujit Baral
+Author : Sujit Baral(SB)
